@@ -7,3 +7,12 @@ D:\windows\Convert_IT\Convert_IT\obj\Debug\Convert_IT.Properties.Resources.resou
 D:\windows\Convert_IT\Convert_IT\obj\Debug\Convert_IT.csproj.GenerateResource.Cache
 D:\windows\Convert_IT\Convert_IT\obj\Debug\Convert_IT.exe
 D:\windows\Convert_IT\Convert_IT\obj\Debug\Convert_IT.pdb
+E:\GitHub\Convert_IT\Convert_IT\bin\Debug\Convert_IT.exe.config
+E:\GitHub\Convert_IT\Convert_IT\obj\Debug\Convert_IT.exe
+E:\GitHub\Convert_IT\Convert_IT\obj\Debug\Convert_IT.pdb
+E:\GitHub\Convert_IT\Convert_IT\bin\Debug\Convert_IT.exe
+E:\GitHub\Convert_IT\Convert_IT\bin\Debug\Convert_IT.pdb
+E:\GitHub\Convert_IT\Convert_IT\obj\Debug\Convert_IT.csprojResolveAssemblyReference.cache
+E:\GitHub\Convert_IT\Convert_IT\obj\Debug\Convert_IT.Form1.resources
+E:\GitHub\Convert_IT\Convert_IT\obj\Debug\Convert_IT.Properties.Resources.resources
+E:\GitHub\Convert_IT\Convert_IT\obj\Debug\Convert_IT.csproj.GenerateResource.Cache
